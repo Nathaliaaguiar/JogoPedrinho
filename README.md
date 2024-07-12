@@ -2,6 +2,9 @@
 
 **Bichinhos em Dupla** é um jogo da memória onde os jogadores precisam encontrar pares de cartas de animais. O jogo foi desenvolvido utilizando HTML, CSS e JavaScript.
 
+
+https://nathaliaaguiar.github.io/JogodaMemoria/
+
 ## Funcionalidades
 
 - **Jogo da Memória:** Encontre todos os pares de animais.
