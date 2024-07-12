@@ -23,10 +23,9 @@ svg {
 .game {
   min-width: 575px;
   height: 100vh;
-  margin-top: 20px;
   background: radial-gradient(circle at 50% 50%, #192233 20%, #000);
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
 }
 .game__cards {
