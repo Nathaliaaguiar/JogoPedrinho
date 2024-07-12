@@ -29,7 +29,7 @@ svg {
   justify-content: center;
 }
 .game__cards {
-  width: 720px;
+  width: 900px;
   margin: auto;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
