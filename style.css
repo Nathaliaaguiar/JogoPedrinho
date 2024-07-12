@@ -4,7 +4,8 @@
 
 body {
   margin: 0;
-  background: radial-gradient(circle at 50% 50%, #192233 20%, #000);
+  background: url('wha.jpg') no-repeat center center fixed;
+  background-size: cover;
   color: #f27922;
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
