@@ -21,8 +21,8 @@ svg {
 }
 
 .game {
-  min-width: 590px;
-  height: 100vh;
+  min-width: 575px;
+  height: 50px;
   background: radial-gradient(circle at 50% 50%, #192233 20%, #000);
   display: flex;
   align-items: center;
